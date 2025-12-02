@@ -1,13 +1,9 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-.kotlin
-
-
 .idea/
 GitTest9.iml
 **/*.log
+git-test9.iml
 
 
 
